@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561394445 source:c:\users\alunos\desktop\trabalhofinalapc\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1561395646 source:c:\users\cliente\desktop\trabalhofinalapc\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
